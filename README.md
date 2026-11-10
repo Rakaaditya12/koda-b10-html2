@@ -2,4 +2,4 @@
 
 ## Membuat Chessboard dengan html dan internal css
 
-![picture-chessboard](picture-chessboard.png)
+![picture-chessboard](image-chessboard.png)
